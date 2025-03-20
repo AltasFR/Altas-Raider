@@ -1,0 +1,9 @@
+Custom License Agreement
+
+Copyright (c) [Year] [Your Name]. All rights reserved.
+
+1. You may not use, copy, modify, distribute, sublicense, or create derivative works of this software without prior written consent from the author.
+2. Redistribution of the software, in any form, is strictly prohibited.
+3. The software is provided "as is" without any warranty, express or implied.
+4. You are granted a limited, non-transferable license to use the software for personal, non-commercial purposes only.
+5. Any violation of this agreement may result in legal action.
